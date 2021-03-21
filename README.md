@@ -1,6 +1,6 @@
 # e-commerce-back
 
-Walkthrough video: 
+Walkthrough video: https://drive.google.com/file/d/1r1isHKKCbHsR5hE3cGIC1N3JpQamXuA4/view
 
 In this project, we are building a backend for an e-commerce site. This involves working with Express.js API to use sequelize to interact with the mysql database. 
 
